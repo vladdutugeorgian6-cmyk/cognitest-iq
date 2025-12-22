@@ -2,8 +2,14 @@
 pid: 22436
 cwd: |
   C:\Users\VLAD\.cursor
-active_command: git add .
-last_command: git init
+active_command: |
+  git add .
+  git commit -m "Reparare config Netlify"
+  git push
+last_command: |
+  git remote add origin https://github.com/vladdutugeorgian6-cmyk/cognitest-iq.git
+  git branch -M main
+  git push -u origin main
 last_exit_code: 0
 ---
 > q-flow@0.1.0 dev
@@ -93,3 +99,96 @@ git version 2.52.0.windows.1
 PS C:\Users\VLAD\.cursor> git init
 Initialized empty Git repository in C:/Users/VLAD/.cursor/.git/
 PS C:\Users\VLAD\.cursor> git add .
+warning: in the working copy of 'app/globals.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/layout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/quiz/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/results/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'argv.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'components/LogicQuiz.tsx', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'components/MemoryMatrix.tsx', LF will be replaced by CRLF the next time Git touches it   
+warning: in the working copy of 'data/questions.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/c-Users-VLAD-contract-generator/agent-tools/ccc95b64-09c9-4f20-8534-3510b05b0d12.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/c-Users-VLAD-cursor/terminals/1.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'types/quiz.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'utils/iq-calculator.ts', LF will be replaced by CRLF the next time Git touches it        
+PS C:\Users\VLAD\.cursor> git commit -m "Lansare MVP CogniTest"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'VLAD@DESKTOP-7IFBMPR.(none)')
+PS C:\Users\VLAD\.cursor> git config --global user.email "vlad.dutu.georgian.6@gmail.com"
+>> git config --global user.name "Vlad"
+PS C:\Users\VLAD\.cursor> git commit -m "Lansare MVP CogniTest"
+[master (root-commit) e132b30] Lansare MVP CogniTest
+ 42 files changed, 10571 insertions(+)
+ create mode 100644 .eslintrc.json
+ create mode 100644 .gitignore
+ create mode 100644 ai-tracking/ai-code-tracking.db
+ create mode 100644 app/globals.css
+ create mode 100644 app/layout.tsx
+ create mode 100644 app/page.tsx
+ create mode 100644 app/pricing/page.tsx
+ create mode 100644 app/quiz/page.tsx
+ create mode 100644 app/results/page.tsx
+ create mode 100644 argv.json
+ create mode 100644 components/BellCurve.tsx
+ create mode 100644 components/LogicQuiz.tsx
+ create mode 100644 components/MemoryMatrix.tsx
+ create mode 100644 components/Navbar.tsx
+ create mode 100644 components/VisualQuestion.tsx
+ create mode 100644 components/shapes/Circle.tsx
+ create mode 100644 components/shapes/Cross.tsx
+ create mode 100644 components/shapes/Dot.tsx
+ create mode 100644 components/shapes/Square.tsx
+ create mode 100644 components/shapes/Triangle.tsx
+ create mode 100644 components/shapes/index.ts
+ create mode 100644 components/ui/button.tsx
+ create mode 100644 components/ui/card.tsx
+ create mode 100644 components/ui/input.tsx
+ create mode 100644 components/ui/progress.tsx
+ create mode 100644 data/questions.ts
+ create mode 100644 extensions/extensions.json
+ create mode 100644 ide_state.json
+ create mode 100644 lib/utils.ts
+ create mode 100644 next.config.js
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 postcss.config.js
+ create mode 100644 projects/c-Users-VLAD-contract-generator/agent-tools/ccc95b64-09c9-4f20-8534-3510b05b0d12.txt
+ create mode 100644 projects/c-Users-VLAD-cursor/terminals/1.txt
+ create mode 100644 tailwind.config.ts
+ create mode 100644 tsconfig.json
+ create mode 100644 types/quiz.ts
+ create mode 100644 types/visual.ts
+ create mode 100644 utils/iq-calculator.ts
+ create mode 100644 utils/quiz-engine.ts
+ create mode 100644 utils/sounds.ts
+PS C:\Users\VLAD\.cursor> git remote add origin https://github.com/vladdutugeorgian6-cmyk/cognitest-iq.git
+>> git branch -M main
+>> git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 62, done.
+Counting objects: 100% (62/62), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (50/50), done.
+Writing objects: 100% (62/62), 203.23 KiB | 3.63 MiB/s, done.
+Total 62 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/vladdutugeorgian6-cmyk/cognitest-iq.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\VLAD\.cursor> git add .
+>> git commit -m "Reparare config Netlify"
+>> git push
