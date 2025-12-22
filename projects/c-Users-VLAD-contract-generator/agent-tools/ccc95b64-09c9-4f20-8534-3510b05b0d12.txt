@@ -1,0 +1,503 @@
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: my-v0-project@0.1.0
+npm warn Found: react@19.2.1
+npm warn node_modules/react
+npm warn   peer react@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn     next@"16.0.10" from the root project
+npm warn     1 more (@vercel/analytics)
+npm warn   42 more (react-dom, react-remove-scroll, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^19.2.1" from react-dom@19.2.1
+npm warn node_modules/react-dom
+npm warn   peer react-dom@"^18.2.0 || 19.0.0-rc-de68d2f4-20241204 || ^19.0.0" from next@16.0.10
+npm warn   node_modules/next
+npm warn   30 more (the root project, @radix-ui/react-accordion, ...)
+
+added 105 packages, removed 313 packages, changed 33 packages, and audited 211 packages in 1m
+
+22 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
