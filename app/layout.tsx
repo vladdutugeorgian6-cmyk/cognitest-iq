@@ -1,6 +1,8 @@
 import type { Metadata } from "next"
 import "./globals.css"
 import Navbar from "@/components/Navbar"
+// 1. Aici importăm noul Footer
+import Footer from "@/components/Footer"
 
 export const metadata: Metadata = {
   title: "CogniTest - Professional IQ Assessment",
@@ -14,13 +16,18 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ro" className="dark">
-      <body>
+      {/* Am adăugat clase pentru a împinge footer-ul jos */}
+      <body className="bg-slate-950 min-h-screen flex flex-col">
         <Navbar />
-        <div className="pt-16">
+        
+        {/* flex-grow face ca acest div să ocupe tot spațiul liber */}
+        <div className="pt-16 flex-grow">
           {children}
         </div>
+
+        {/* 2. Aici afișăm Footer-ul pe toate paginile */}
+        <Footer />
       </body>
     </html>
   )
 }
-

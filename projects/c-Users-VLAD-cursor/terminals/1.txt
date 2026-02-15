@@ -1,230 +1,15 @@
 ---
-pid: 12484
+pid: 19676
 cwd: |
   C:\Users\VLAD\.cursor
-active_command: npm run dev
+active_command: |
+  git add .
+  git commit -m "Update final: Landing Page, Autosave, Pricing Pro si Pagini Legale"
+  git push
+last_command: git add.
+last_exit_code: 1
 ---
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET / 200 in 3933ms
- ✓ Compiled in 534ms (634 modules)
- GET / 200 in 52ms
- ○ Compiling /pricing ...
- ✓ Compiled /pricing in 554ms (1255 modules)
-PS C:\Users\VLAD\.cursor> 
-
- *  History restored 
-
-PS C:\Users\VLAD\.cursor> npm run dev
-
-> q-flow@0.1.0 dev
-> next dev
-
-  ▲ Next.js 14.2.5
-  - Local:        http://localhost:3000
-  - Environments: .env.local
-
- ✓ Starting...
- ✓ Ready in 3s
- ○ Compiling / ...
- ✓ Compiled / in 7.5s (1255 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
-    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
-    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET / 200 in 8174ms
- ✓ Compiled in 683ms (634 modules)
- GET / 200 in 43ms
- ○ Compiling /pricing ...
- ✓ Compiled /pricing in 667ms (1255 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
-    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
-    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET / 200 in 215ms
- GET / 200 in 61ms
-
- *  History restored 
-
-PS C:\Users\VLAD\.cursor> npm run dev
-
-> q-flow@0.1.0 dev
-> next dev
-
-  ▲ Next.js 14.2.5
-  - Local:        http://localhost:3000
-  - Environments: .env.local
-
- ✓ Starting...
- ✓ Ready in 2.3s
- ○ Compiling / ...
- ✓ Compiled / in 6.7s (1255 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
-    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
-    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET / 200 in 7249ms
- ✓ Compiled in 608ms (634 modules)
- GET / 200 in 49ms
- ✓ Compiled in 218ms (634 modules)
- GET / 200 in 52ms
- GET / 200 in 59ms
- ✓ Compiled in 606ms (1251 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
-    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
-    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET / 200 in 288ms
- ○ Compiling /pricing ...
- ✓ Compiled /pricing in 658ms (1253 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
-    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
-    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET /pricing?score=104 200 in 947ms
- ✓ Compiled in 589ms (1267 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
-    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
-    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
-    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
-    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
-    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
-    at Lazy
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
-    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
- GET /pricing?score=104 200 in 217ms
- GET / 200 in 68ms
- GET /pricing 200 in 79ms
- ○ Compiling /results ...
- ✓ Compiled /results in 734ms (1267 modules)
-Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
-    at button
-    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
-    at div
-    at div
-    at div
-    at nav
-    at Navbar
-    at Lazy
-    at body
-    at html
-    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+ry.js:73:9)
     at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
     at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
     at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
@@ -283,8 +68,6 @@ Warning: React does not recognize the `asChild` prop on a DOM element. If you in
     at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
     at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
     at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
-    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
-    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
     at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
     at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
     at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
@@ -292,3 +75,684 @@ Warning: React does not recognize the `asChild` prop on a DOM element. If you in
  ✓ Compiled in 746ms (1271 modules)
  ✓ Compiled in 833ms (1269 modules)
  ✓ Compiled in 634ms (1277 modules)
+
+ *  History restored 
+
+PS C:\Users\VLAD\.cursor> 
+ *  History restored 
+
+PS C:\Users\VLAD\.cursor> 
+ *  History restored 
+
+PS C:\Users\VLAD\.cursor> 
+ *  History restored 
+
+PS C:\Users\VLAD\.cursor> npm run dev
+
+> q-flow@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 3.7s (1257 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET / 200 in 4005ms
+ ✓ Compiled in 373ms (635 modules)
+ ✓ Compiled in 393ms (1259 modules)
+ ✓ Compiled in 219ms (1259 modules)
+
+PS C:\Users\VLAD\.cursor> npm run dev 
+
+> q-flow@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1702ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.1s (1259 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET / 200 in 2392ms
+ ✓ Compiled in 235ms (636 modules)
+ GET / 200 in 41ms
+ GET / 200 in 47ms
+ GET / 200 in 72ms
+ ✓ Compiled in 348ms (1263 modules)
+ ✓ Compiled in 653ms (1263 modules)
+PS C:\Users\VLAD\.cursor> 
+                          npm run dev
+
+> q-flow@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1929ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.7s (1263 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET / 200 in 4236ms
+ ✓ Compiled in 591ms (638 modules)
+ GET / 200 in 58ms
+ GET / 200 in 71ms
+ ○ Compiling /pricing ...
+ ✓ Compiled /pricing in 555ms (1259 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /pricing?score=104 200 in 737ms
+ ○ Compiling /api/checkout ...
+ ✓ Compiled /api/checkout in 1246ms (872 modules)
+STRIPE ERROR: No such price: 'price_1ShaJN0etceVo13ExQs5Ds3I'
+ POST /api/checkout 500 in 1839ms
+STRIPE ERROR: No such price: 'price_1ShaJN0etceVo13ExQs5Ds3I'
+ POST /api/checkout 500 in 261ms
+ ✓ Compiled in 307ms (1273 modules)
+ ✓ Compiled in 383ms (1281 modules)
+ ✓ Compiled in 252ms (1281 modules)
+PS C:\Users\VLAD\.cursor> 
+                          ^C
+PS C:\Users\VLAD\.cursor> npm run dev
+
+> q-flow@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1688ms
+ ○ Compiling /pricing ...
+ ✓ Compiled /pricing in 3.8s (1249 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /pricing?score=104 200 in 4358ms
+ ✓ Compiled in 590ms (631 modules)
+ ✓ Compiled in 288ms (631 modules)
+ ✓ Compiled in 199ms (631 modules)
+ ✓ Compiled in 500ms (1238 modules)
+PS C:\Users\VLAD\.cursor> 
+                          nmp run dev
+nmp : The term 'nmp' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ nmp run dev
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (nmp:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\VLAD\.cursor> npm run dev
+
+> q-flow@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1681ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4s (1266 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET / 200 in 4585ms
+ ✓ Compiled in 615ms (638 modules)
+ ✓ Compiled /_not-found in 463ms (1255 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /terms 404 in 151ms
+ GET /privacy 404 in 41ms
+ GET /contact 404 in 49ms
+ ✓ Compiled in 235ms (638 modules)
+ ✓ Compiled /_not-found in 181ms (1255 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 404 in 123ms
+ ✓ Compiled in 180ms (638 modules)
+ ✓ Compiled /_not-found in 126ms (1255 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 404 in 129ms
+ ✓ Compiled in 105ms (640 modules)
+ GET /contact 404 in 42ms
+ ✓ Compiled in 175ms (640 modules)
+ ✓ Compiled in 233ms (1255 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 404 in 291ms
+ ✓ Compiled in 111ms (640 modules)
+ GET /contact 404 in 52ms
+ ✓ Compiled in 100ms (640 modules)
+ GET /contact 404 in 46ms
+ ✓ Compiled in 187ms (638 modules)
+ ✓ Compiled /_not-found in 107ms (1255 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 404 in 68ms
+ ✓ Compiled in 164ms (640 modules)
+ GET /contact 404 in 57ms
+ ✓ Compiled in 170ms (1255 modules)
+ ✓ Compiled in 117ms (640 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 404 in 65ms
+ ✓ Compiled in 127ms (640 modules)
+ GET /contact 404 in 21ms
+ ✓ Compiled in 135ms (640 modules)
+ ✓ Compiled /contact in 432ms (1259 modules)
+ ⨯ Error: The default export is not a React Component in page: "/contact"
+    at rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:9573)
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async rW (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:12534)      
+    at async r0 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:16238)      
+    at async doRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1438:30)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1507:28)
+    at async DevServer.renderPageComponent (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1931:24)   
+    at async DevServer.renderToResponseImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1969:32)  
+    at async DevServer.pipeImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:816:17)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\VLAD\.cursor\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:336:24)  
+    at async invokeRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:174:21)
+    at async handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:353:24)
+    at async requestHandlerImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:377:13)
+    at async Server.requestListener (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\start-server.js:141:13) {    
+  page: '/contact'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 939ms (1483 modules)
+ ⨯ Error: The default export is not a React Component in page: "/contact"
+    at rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:9573)
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async rW (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:12534)      
+    at async r0 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:16238)      
+    at async doRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1438:30)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1507:28)
+    at async DevServer.renderPageComponent (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1931:24)   
+    at async DevServer.renderToResponseImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1969:32)  
+    at async DevServer.pipeImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:816:17)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\VLAD\.cursor\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:336:24)  
+    at async invokeRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:174:21)
+    at async handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:353:24)
+    at async requestHandlerImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:377:13)
+    at async Server.requestListener (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\start-server.js:141:13) {    
+  page: '/contact'
+}
+ ⨯ Error: The default export is not a React Component in page: "/contact"
+    at rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:9573)
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async rW (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:12534)      
+    at async r0 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:16238)      
+    at async doRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1438:30)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1507:28)
+    at async DevServer.renderPageComponent (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1931:24)   
+    at async DevServer.renderToResponseImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1969:32)  
+    at async DevServer.pipeImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:816:17)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\VLAD\.cursor\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:336:24)  
+    at async invokeRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:174:21)
+    at async handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:353:24)
+    at async requestHandlerImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:377:13)
+    at async Server.requestListener (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\start-server.js:141:13) {    
+  page: '/contact'
+}
+ ⨯ Error: The default export is not a React Component in page: "/contact"
+    at rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:9573)
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10360
+    at async Promise.all (index 0)
+    at async rU (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:10036)      
+    at async rW (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:12534)      
+    at async r0 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:16238)      
+    at async doRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1438:30)
+    at async cacheEntry.responseCache.get.routeKind (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1507:28)
+    at async DevServer.renderPageComponent (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1931:24)   
+    at async DevServer.renderToResponseImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:1969:32)  
+    at async DevServer.pipeImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\next-server.js:272:17)
+    at async DevServer.handleRequestImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\base-server.js:816:17)      
+    at async C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:339:20
+    at async Span.traceAsyncFn (C:\Users\VLAD\.cursor\node_modules\next\dist\trace\trace.js:154:20)
+    at async DevServer.handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\dev\next-dev-server.js:336:24)  
+    at async invokeRender (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:174:21)
+    at async handleRequest (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:353:24)
+    at async requestHandlerImpl (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\router-server.js:377:13)
+    at async Server.requestListener (C:\Users\VLAD\.cursor\node_modules\next\dist\server\lib\start-server.js:141:13) {    
+  page: '/contact'
+}
+ ⨯ Error: The default export is not a React Component in page: "/contact"
+    at async Promise.all (index 0)
+    at async Promise.all (index 0)
+digest: "2692833168"
+ ⨯ Error: The default export is not a React Component in page: "/contact"
+    at async Promise.all (index 0)
+    at async Promise.all (index 0)
+digest: "2692833168"
+ GET /contact 500 in 96ms
+ ✓ Compiled in 358ms (1503 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 200 in 130ms
+ ✓ Compiled in 216ms (1503 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /contact 200 in 167ms
+ ✓ Compiled /privacy in 491ms (1486 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /privacy 200 in 628ms
+ ✓ Compiled /terms in 281ms (1488 modules)
+Warning: React does not recognize the `asChild` prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase `aschild` instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+    at button
+    at eval (webpack-internal:///(ssr)/./components/ui/button.tsx:13:79)
+    at div
+    at div
+    at div
+    at nav
+    at Navbar
+    at Lazy
+    at body
+    at html
+    at RedirectErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:73:9)
+    at RedirectBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/redirect-boundary.js:81:11) 
+    at ReactDevOverlay (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/ReactDevOverlay.js:87:9)
+    at HotReload (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/react-dev-overlay/app/hot-reloader-client.js:322:11)
+    at Router (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:202:11)
+    at ErrorBoundaryHandler (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:112:9)
+    at ErrorBoundary (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/error-boundary.js:158:11)      
+    at AppRouter (webpack-internal:///(ssr)/./node_modules/next/dist/client/components/app-router.js:564:13)
+    at Lazy
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at r4 (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:18826)
+    at ServerInsertedHTMLProvider (C:\Users\VLAD\.cursor\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:24256)
+ GET /terms 200 in 376ms
+ GET / 200 in 51ms
+ ✓ Compiled in 552ms (1500 modules)
+ ✓ Compiled in 348ms (1500 modules)
+ GET / 200 in 142ms
+ ✓ Compiled in 368ms (1503 modules)
+ ✓ Compiled in 292ms (1503 modules)
+ ✓ Compiled in 112ms (821 modules)
+ ✓ Compiled /privacy in 221ms (684 modules)
+PS C:\Users\VLAD\.cursor> 
+                          gitt add.
+gitt : The term 'gitt' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ gitt add.
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (gitt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\VLAD\.cursor> git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Disable this message with "git config set advice.addEmptyPathspec false"
+PS C:\Users\VLAD\.cursor> git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+PS C:\Users\VLAD\.cursor> git add .
+>> git commit -m "Update final: Landing Page, Autosave, Pricing Pro si Pagini Legale"
+>> git push
